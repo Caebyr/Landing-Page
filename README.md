@@ -1,1 +1,2 @@
 # Landing-Page
+This project is primarily focused on implementing flex-box fundamentals to position and style elements on a website along with some basics of css. It showcases some of the most commonly used styles in websites that I will most probably be using in future projects.
